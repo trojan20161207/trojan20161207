@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Lucky man 👋
 
 <!--
 **trojan20161207/trojan20161207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 
 [![Tristan's github stats](https://github-readme-stats.vercel.app/api?username=trojan20161207)](https://github.com/trojan20161207)
